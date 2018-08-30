@@ -1,0 +1,1 @@
+直接gcc -o prctl prctl.c编译即可
